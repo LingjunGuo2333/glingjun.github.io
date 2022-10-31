@@ -11,22 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
+* M.S. in IOE, University of Michigan, Ann Arbor, 2021 - 2023(expected)
+* B.S. in Mathematics, Fudan University, 2016 - 2020
+* Undergraduate in College of Engineering, Fudan University, 2015 - 2016
+* Undergraduate Exchange Program, Australia National University, 2019
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 2022 Jan - Oct: Research Assistant
+  * University of Michigan, Ann Arbor
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Salar Fattahi
+
+* 2020-2021: Research Assistant
+  * Fudan University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
 * Skill 1
