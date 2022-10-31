@@ -85,8 +85,8 @@ author:
   bio              : "A future optimizer, a deamer and a M.S. student @UMIOE"
   location         : "Ann Arbor, MI, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/陵骏-郭-b15898255/"
   orcid            : 
   pinterest        :
   soundcloud       :
