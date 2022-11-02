@@ -25,10 +25,11 @@ Basis Function Decomposition for Deep Neural Networks
 Distributed Semi-smooth Newton Augmented Lagrangian algorithm for high dimensional data
 ------
 
-**Markdown generator**
-
-------
+Preprints:
+======
+Jianhao Ma, <b>Lingjun Guo</b>, and Salar Fattahi. Behind the scenes of gradient descent: A trajectory analysis via basis function decomposition. 2022.
+[arXiv preprint arXiv:2210.00346](https://arxiv.org/abs/2210.00346). [code](https://github.com/jianhaoma/function-basis-decomposition)
 
 Contact:
 ------
-Please feel free to drop an email to me: lingjunguo2333@gmail.com or glingjun@umich.edu. Perhaps we will find something fun!
+Please feel free to drop an email to me: [lingjunguo2333@gmail.com](mailto:lingjunguo2333@gmail.com) or [glingjun@umich.edu](mailto:glingjun@umich.edu). Perhaps we will find something fun!
