@@ -21,10 +21,15 @@ Projects:
 
 Basis Function Decomposition for Deep Neural Networks
 ------
+In this work, we showed that for certain basis functions, deep neural networks (DNNs) can <b>monotonically</b> learn the coefficients for these bases. More specifically, we construct theoretic basis functions for symmetric matrix (SM) and orthogonal symmetric tensors (OST), respectively. Using these basis functions, we give new convergence results for SM and OST decomposition problems. In practice, we propose conjugate after kernel (A-CK) after training as basis functions for practical DNNs, and we demonstrate the monotone learning phenomenon for a wide range of models, datasets, solvers, and loss functions.
 
+[Behind the scenes of gradient descent: A trajectory analysis via basis function decomposition.](https://arxiv.org/abs/2210.00346)[Code.](https://github.com/jianhaoma/function-basis-decomposition)
 
 Distributed Semi-smooth Newton Augmented Lagrangian algorithm for high dimensional data
 ------
+In this work, we proposed a distributed algorithm for Lasso loss in high-dimensional data. 
+
+
 
 Preprints:
 ======
