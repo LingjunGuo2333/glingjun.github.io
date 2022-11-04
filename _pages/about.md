@@ -38,4 +38,4 @@ Jianhao Ma, <b>Lingjun Guo</b>, and Salar Fattahi. Behind the scenes of gradient
 
 Contact:
 ------
-Please feel free to drop an email to me: [lingjunguo2333@gmail.com](mailto:lingjunguo2333@gmail.com) or [glingjun@umich.edu](mailto:glingjun@umich.edu). Perhaps we will find something fun!
+Please feel free to drop an email to me: [lingjunguo2333@gmail.com](mailto:lingjunguo2333@gmail.com) or [glingjun@umich.edu](mailto:glingjun@umich.edu).
