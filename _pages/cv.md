@@ -11,49 +11,25 @@ redirect_from:
 
 Education
 ======
-* M.S. in IOE, University of Michigan, Ann Arbor, 2021 - 2023(expected)
+* M.S. in IOE, University of Michigan, Ann Arbor, 2021 - 2023 (expected)
 * B.S. in Mathematics, Fudan University, 2016 - 2020
 * Undergraduate in College of Engineering, Fudan University, 2015 - 2016
 * Undergraduate Exchange Program, Australia National University, 2019
+
 Work experience
 ======
-* 2022 Jan - Oct: Research Assistant
+* 2022 Jan - Oct: Research Intern
   * University of Michigan, Ann Arbor
-  * Duties included: Merging pull requests
   * Supervisor: Professor Salar Fattahi
 
 * 2020-2021: Research Assistant
-  * Fudan University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Fudan University, Department of Data Science
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, Latex, R, MATLAB
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Jianhao Ma, <b>Lingjun Guo</b>, and Salar Fattahi. Behind the scenes of gradient descent: A trajectory analysis via basis function decomposition. 2022.
+[arXiv preprint arXiv:2210.00346](https://arxiv.org/abs/2210.00346). [[code]](https://github.com/jianhaoma/function-basis-decomposition)

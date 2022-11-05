@@ -16,6 +16,7 @@ Research Interests
 ======
 
 
+
 Projects:
 ======
 
@@ -27,7 +28,7 @@ In this work, we showed that for certain basis functions, deep neural networks (
 
 Distributed Semi-smooth Newton Augmented Lagrangian algorithm for high dimensional data
 ------
-In this work, we proposed a distributed semi-smooth second-order algorithm for Lasso loss in high-dimensional data. To be specific, different features of data are only known to local workers in a master-worker network, where worker-to-worker communication is prohibited. We propose an algorithm using a semi-smooth Newton Augmented Lagrangian method and reach high accuracy in a comparable time. Our method converges even faster when applied good initialization points.
+In this work, we proposed a distributed semi-smooth second-order algorithm for Lasso loss in high-dimensional data. To be specific, different features of data are only known to local workers in a master-worker network, where worker-to-worker communication is prohibited. We propose an algorithm using a semi-smooth Newton Augmented Lagrangian method and reach high accuracy in a comparable time. Our method converges even faster when applied with good initialization points.
 
 
 
