@@ -17,7 +17,10 @@ You can find my CV here if interested!
 Research Interests
 ======
 
+General optimization theories and applications. Mathematical models that can solve real life problems.
+------
 
+Optimization in machine learning, healthcare, transportation, or applications that interacts with our world. Integer programming.
 
 Projects:
 ======
