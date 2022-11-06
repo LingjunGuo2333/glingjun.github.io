@@ -12,15 +12,12 @@ Hi there, welcome to my homepage! I wish to share my academic and personal inter
 
 I'm a second year master student [@UMIOE](https://ioe.engin.umich.edu/), where I have taken courses focused on theoretical side of optimization. I was also fortunate enough to join into Prof.[Salar Fattahi](https://fattahi.engin.umich.edu/)'s research group working on basis function decomposition for deep neural networks. Prior to that, I recieved my B.S. degree in [Mathematics and Applied Mathematics](https://math.fudan.edu.cn/) in Fudan University, China.  
 
-You can find my CV here if interested!
+You can find my CV [here](https://github.com/LingjunGuo2333/glingjun.github.io/tree/master/files/CV_lingjun_guo.pdf) if interested!
 
 Research Interests
 ======
 
-General optimization theories and applications. Mathematical models that can solve real life problems.
-------
-
-Optimization in machine learning, healthcare, transportation, or applications that interacts with our world. Integer programming.
+I'm interested in optimization theories and its applications on real world problems. In particular, I'm interested in theories and applications of optimization in machine learning, healthcare, transportation, etc. I'm also interested in integer programming.
 
 Projects:
 ======
