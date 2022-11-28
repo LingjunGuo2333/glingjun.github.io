@@ -12,7 +12,7 @@ Hi there, welcome to my homepage! I wish to share my academic and personal inter
 
 I'm a second year master student [@UMIOE](https://ioe.engin.umich.edu/), where I have taken courses focused on theoretical side of optimization. I was also fortunate enough to join into Prof.[Salar Fattahi](https://fattahi.engin.umich.edu/)'s research group working on basis function decomposition for deep neural networks. Prior to that, I recieved my B.S. degree in [Mathematics and Applied Mathematics](https://math.fudan.edu.cn/) in Fudan University, China.  
 
-You can find my CV [here](https://github.com/LingjunGuo2333/glingjun.github.io/tree/master/files/CV_lingjun_guo.pdf) if interested!
+You can find my CV <a href=https://github.com/LingjunGuo2333/glingjun.github.io/tree/master/files/CV_lingjun_guo.pdf>here</a> if interested!
 
 Research Interests
 ======
@@ -24,13 +24,14 @@ Projects:
 
 Basis Function Decomposition for Deep Neural Networks
 ------
+<img src='/images/500x300.png'>
 In this work, we showed that for certain basis functions, deep neural networks (DNNs) can <b>monotonically</b> learn the coefficients for these bases. More specifically, we construct theoretic basis functions for symmetric matrix (SM) and orthogonal symmetric tensors (OST), respectively. Using these basis functions, we give new convergence results for SM and OST decomposition problems. In practice, we propose conjugate after kernel (A-CK) after training as basis functions for practical DNNs, and we demonstrate the monotone learning phenomenon for a wide range of models, datasets, solvers, and loss functions.
 
 [Behind the scenes of gradient descent: A trajectory analysis via basis function decomposition.](https://arxiv.org/abs/2210.00346)[Code.](https://github.com/jianhaoma/function-basis-decomposition)
 
 Distributed Semi-smooth Newton Augmented Lagrangian algorithm for high dimensional data
 ------
-In this work, we proposed a distributed semi-smooth second-order algorithm for Lasso loss in high-dimensional data. To be specific, different features of data are only known to local workers in a master-worker network, where worker-to-worker communication is prohibited. We propose an algorithm using a semi-smooth Newton Augmented Lagrangian method and reach high accuracy in a comparable time. Our method converges even faster when applied with good initialization points.
+In this work, we proposed a distributed semi-smooth second-order algorithm for Lasso loss in high-dimensional data. To be specific, different features of data are only known to local workers in a master-worker network, where worker-to-worker communication is prohibited. We propose a distributed algorithm using a semi-smooth Newton Augmented Lagrangian method and it can reach high accuracy in a comparable time. Our method converges even faster when applied with good initialization points.
 
 
 
