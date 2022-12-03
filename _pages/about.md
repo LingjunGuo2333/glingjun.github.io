@@ -24,7 +24,8 @@ Projects:
 
 Basis Function Decomposition for Deep Neural Networks
 ------
-<img src="gradient-descent-optimal.jpg">
+<img src="https://github.com/LingjunGuo2333/glingjun.github.io/blob/master/images/gradient-descent-optimal.jpg">
+<a href="https://github.com/LingjunGuo2333/glingjun.github.io/blob/master/files/CV_lingjun_guo.pdf">Click here for inserting PDF in HTML.</a>
 
 In this work, we showed that for certain basis functions, deep neural networks (DNNs) can <b>monotonically</b> learn the coefficients for these bases. More specifically, we construct theoretic basis functions for symmetric matrix (SM) and orthogonal symmetric tensors (OST), respectively. Using these basis functions, we give new convergence results for SM and OST decomposition problems. In practice, we propose conjugate after kernel (A-CK) after training as basis functions for practical DNNs, and we demonstrate the monotone learning phenomenon for a wide range of models, datasets, solvers, and loss functions.
 
