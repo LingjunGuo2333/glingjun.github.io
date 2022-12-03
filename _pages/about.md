@@ -17,7 +17,7 @@ You can find my CV [here](https://github.com/LingjunGuo2333/glingjun.github.io/t
 Research Interests
 ======
 
-I'm interested in optimization theories and modeling real world problems. In particular, I'm interested in theories and applications of optimization in machine learning, market, transportation, healthcare and mathematical models in sociology. I'm also interested in integer programming.
+I'm interested in optimization theories and modeling real world problems. In particular, I'm interested in theories and applications of optimization in machine learning, healthcare and market, etc. I'm also interested in mathematical models in sociology problems. 
 
 Projects:
 ======
