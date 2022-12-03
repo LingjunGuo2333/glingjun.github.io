@@ -12,7 +12,7 @@ Hi there, welcome to my homepage! I wish to share my academic and personal inter
 
 I'm a second year master student [@UMIOE](https://ioe.engin.umich.edu/), where I have taken courses focused on theoretical side of optimization. I was also fortunate enough to join into Prof.[Salar Fattahi](https://fattahi.engin.umich.edu/)'s research group working on basis function decomposition for deep neural networks. Prior to that, I recieved my B.S. degree in [Mathematics and Applied Mathematics](https://math.fudan.edu.cn/) in Fudan University, China.  
 
-You can find my CV <a href=https://github.com/LingjunGuo2333/glingjun.github.io/tree/master/files/CV_lingjun_guo.pdf>here</a> if interested!
+You can find my CV [here](https://github.com/LingjunGuo2333/glingjun.github.io/tree/master/files/CV_lingjun_guo.pdf) if interested!
 
 Research Interests
 ======
@@ -31,7 +31,7 @@ In this work, we showed that for certain basis functions, deep neural networks (
 
 Distributed Semi-smooth Newton Augmented Lagrangian algorithm for high dimensional data
 ------
-In this work, we proposed a distributed semi-smooth second-order algorithm for Lasso loss in high-dimensional data. To be specific, different features of data are only known to local workers in a master-worker network, where worker-to-worker communication is prohibited. We propose a distributed algorithm using a semi-smooth Newton Augmented Lagrangian method and it can reach high accuracy in a comparable time. Our method converges even faster when applied with good initialization points.
+In this work, we proposed a distributed semi-smooth second-order algorithm for Lasso loss in high-dimensional data. To be specific, different features of data are only known to local workers in a master-worker network, where worker-to-worker communication is prohibited. We propose a distributed algorithm using a semi-smooth Newton Augmented Lagrangian method, and it can reach high accuracy in a comparable time. Our method converges even faster when applied with good initialization points.
 
 
 
